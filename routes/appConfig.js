@@ -1,0 +1,44 @@
+var express = require('express');
+var router = express.Router();
+var fs = require('fs')
+var path = require('path')
+
+router.all('*', function (req, res, next) {
+    res.header('Access-Control-Allow-Origin', '*'); //访问控制允许来源：所有
+    res.header('Access-Control-Allow-Headers', 'Origin, X-Requested-With, Content-Type, Accept'); //访问控制允许报头 X-Requested-With: xhr请求
+    res.header('Access-Control-Allow-Metheds', 'PUT, POST, GET, DELETE, OPTIONS'); //访问控制允许方法
+    res.header('Content-Type', 'application/json;charset=utf-8');
+    next();
+})
+
+
+
+/** 获取首页底部条目信息 */
+router.get('/appConfig/appBottomV770', function(req, res, next) {
+    var file = path.join(__dirname, '../', '/data/appConfig/appBottomV770.json');
+    var json = fs.readFileSync(file, 'utf-8')
+    console.log(json)
+    res.json(JSON.parse(json))
+})
+router.post('/appConfig/appBottomV770', function(req, res, next) {
+    var file = path.join(__dirname, '../', '/data/appConfig/appBottomV770.json');
+    var json = fs.readFileSync(file, 'utf-8')
+    console.log(json)
+    res.json(JSON.parse(json))
+})
+/** 获取YX的id */
+router.get('/appConfig/getYxId', function(req, res, next) {
+    var file = path.join(__dirname, '../', '/data/appConfig/getYxId.json');
+    var json = fs.readFileSync(file, 'utf-8')
+    console.log(json)
+    res.json(JSON.parse(json))
+})
+router.post('/appConfig/getYxId', function(req, res, next) {
+    var file = path.join(__dirname, '../', '/data/appConfig/getYxId.json');
+    var json = fs.readFileSync(file, 'utf-8')
+    console.log(json)
+    res.json(JSON.parse(json))
+})
+
+
+module.exports = router;

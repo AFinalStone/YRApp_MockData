@@ -1,0 +1,25 @@
+{
+  "code": 0,
+  "message": "SUCCESS",
+  "data": {
+    "other": [
+      {
+        "id": 10,
+        "use": true,
+        "linkUrl": "huajian://laoshi"
+      }
+    ],
+    "customerService": [
+      {
+        "id": 2,
+        "use": false,
+        "linkUrl": "huajian://xiaozhushou"
+      },
+      {
+        "id": 6,
+        "use": true,
+        "linkUrl": "huajian://zx-kefu"
+      }
+    ]
+  }
+}

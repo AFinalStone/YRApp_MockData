@@ -1,0 +1,47 @@
+{
+  "code": 0,
+  "message": "SUCCESS",
+  "data": {
+    "bottomInfo": [{
+      "ord": 1,
+      "name": "社区",
+      "icon": "https://file.tyi365.com/uploads/app_bottom/icon/5df9df0a503db.png",
+      "eventType": 4,
+      "type": 1,
+      "event": 22,
+      "iconSelect": "https://file.tyi365.com/uploads/app_bottom/icon_select/5df9df0a50537.png"
+    }, {
+      "ord": 3,
+      "name": "直播",
+      "icon": "https://file.tyi365.com/uploads/app_bottom/icon/5df9decf23a27.png",
+      "eventType": 7,
+      "type": 1,
+      "event": 21,
+      "iconSelect": "https://file.tyi365.com/uploads/app_bottom/icon_select/5df9decf24182.png"
+    }, {
+      "ord": 3,
+      "name": "花花世界",
+      "icon": "http://yrmanage-uat.ihuayou.net/uploads/app_bottom/icon/5eb3ba71f0848.png",
+      "eventType": 11,
+      "type": 1,
+      "event": 32,
+      "iconSelect": "http://yrmanage-uat.ihuayou.net/uploads/app_bottom/icon_select/5eb3b2fdbd2b8.png"
+    }, {
+      "ord": 4,
+      "name": "消息",
+      "icon": "https://file.tyi365.com/uploads/app_bottom/icon/5df9df9df2c73.png",
+      "eventType": 8,
+      "type": 1,
+      "event": 24,
+      "iconSelect": "https://file.tyi365.com/uploads/app_bottom/icon_select/5df9df9df2df4.png"
+    }, {
+      "ord": 5,
+      "name": "我的",
+      "icon": "https://file.tyi365.com/uploads/app_bottom/icon/5df9dfc227ffd.png",
+      "eventType": 10,
+      "type": 1,
+      "event": 25,
+      "iconSelect": "https://file.tyi365.com/uploads/app_bottom/icon_select/5df9dfc2281c4.png"
+    }]
+  }
+}

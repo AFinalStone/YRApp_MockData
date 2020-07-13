@@ -1,0 +1,439 @@
+{
+  "code": 0,
+  "message": "SUCCESS",
+  "data": {
+    "uid": 69730,
+    "avatar": "http://fdfs.tyi365.com/img/M00/2A/F4/rB9QC1tbCA6AcRS3AAZ2Hzd6UTU393.png?imageMogr2/thumbnail/200x200",
+    "examineAvatar": null,
+    "nickname": "小哥哥v1370",
+    "realName": null,
+    "sex": 1,
+    "signature": "快来和我视频吧！",
+    "background": "https://static.ihuayou.net/img/smr_head.png?imageMogr2/thumbnail/500x500",
+    "province": "浙江省",
+    "city": "杭州市",
+    "age": 25,
+    "personalPicUrl": "http://fdfs.tyi365.com/img/M00/2A/F4/rB9QC1tbCA6AcRS3AAZ2Hzd6UTU393.png",
+    "personalVideoUrl": null,
+    "isAuth": 0,
+    "sort": 0,
+    "voiceUrl": null,
+    "voiceDuration": null,
+    "myVoiceUrl": null,
+    "myVoiceDuration": null,
+    "myVoiceStatus": 0,
+    "profession": null,
+    "income": null,
+    "height": 170,
+    "wechatId": null,
+    "secrecy": null,
+    "status": 1,
+    "chatStatus": null,
+    "feelingStatus": "单身",
+    "friendsObjective": "",
+    "matchValue": null,
+    "myFlower": null,
+    "infoPerfect": 77,
+    "ifTop": 2,
+    "flag": 2,
+    "videoPrice": 0.0,
+    "voicePrice": 0.0,
+    "videoStatus": 0,
+    "callCompletingRate": 100.0,
+    "onlineStatus": 0,
+    "rushChatOnOff": 1,
+    "withdrawStatus": 1,
+    "cameraStatus": 2,
+    "replyOnOff": 1,
+    "cityCode": null,
+    "provinceCode": null,
+    "infoMobile": null,
+    "infoWeixin": null,
+    "infoQq": null,
+    "ifTopModel": 2,
+    "ifTopHot": 2,
+    "ifModel": 2,
+    "ifHot": 2,
+    "idCardNo": null,
+    "liveOnOff": 2,
+    "luckyLotteryOnOff": 2,
+    "chatGroupBtn": 2,
+    "mysteryBtn": 2,
+    "bulletScreenBtn": 2,
+    "hideBtn": 2,
+    "whetherJoinChatRoom": true,
+    "isMakeFriend": true,
+    "joinChatRoomIndex": 2,
+    "mobileLogin": "17700018006",
+    "wxUnionId": null,
+    "level": 0,
+    "location": "杭州市西湖区双龙街",
+    "fid": 6973087,
+    "prettyFid": 6973087,
+    "earnings": null,
+    "type": 0,
+    "subType": null,
+    "distance": "0",
+    "flower": 0.0,
+    "paymentFlower": 0.0,
+    "credit": 0.0,
+    "flowerCoin": 0.0,
+    "creditHuami": 0.0,
+    "flowerRedPacket": 0.0,
+    "flowerPrized": 0.0,
+    "withdrawCredit": null,
+    "withdrawCreditRate": null,
+    "withdrawAmount": null,
+    "follow": 0,
+    "fans": 0,
+    "isBlack": 2,
+    "isBlacked": null,
+    "album": 0,
+    "video": 0,
+    "miniVideo": 0,
+    "vip": 2,
+    "vipLevel": 0,
+    "vipEndTime": null,
+    "ifFollow": 0,
+    "friendRemark": null,
+    "albumList": [],
+    "creditFirstRecharge": 0.0,
+    "recharge": null,
+    "evaluateTags": [],
+    "tags": [],
+    "freeCount": null,
+    "finishCount": null,
+    "switchStatus": null,
+    "nicknameStatus": 2,
+    "avatarStatus": 2,
+    "signatureStatus": 2,
+    "examineNickName": null,
+    "coverImgStatus": 2,
+    "guardianInfo": {},
+    "videoInfo": null,
+    "extraInfo": [
+      {
+        "type": 4,
+        "content": ""
+      }
+    ],
+    "userGrade": 0,
+    "anchorGrade": 0,
+    "nextUserGradeExp": 60.00,
+    "nextAnchorGradeExp": 60.00,
+    "userGradeExp": 0.00,
+    "anchorGradeExp": 0.00,
+    "lowerUserGradeExp": 60.00,
+    "lowerAnchorGradeExp": 60.00,
+    "grade": 0,
+    "exp": 0.00,
+    "nextLevelExp": 60.00,
+    "levelColor": "#5dcce5",
+    "friendCount": 0,
+    "healthScore": 0.0,
+    "honor": null,
+    "honorMap": {},
+    "carName": null,
+    "svgUrl": null,
+    "superAdmin": false,
+    "silentStatus": false,
+    "silentEndTime": null,
+    "mysteryName": "小哥哥v1370",
+    "mysteryImgUrl": "http://fdfs.tyi365.com/img/M00/2A/F4/rB9QC1tbCA6AcRS3AAZ2Hzd6UTU393.png?imageMogr2/thumbnail/200x200",
+    "trumpAnchor": 0,
+    "zoneName": null,
+    "zoneLevel": null,
+    "starLevel": null,
+    "friendApplyBtn": 1,
+    "listAuth": null,
+    "honorList": [],
+    "mount": {
+      "packageMountId": null,
+      "mountId": null,
+      "mountName": null,
+      "svgUrl": null,
+      "imgUrl": null,
+      "duration": null,
+      "num": null,
+      "status": null,
+      "remark": null,
+      "timeMillis": null,
+      "canRenew": false,
+      "renewPrice": null,
+      "yearPrice": null,
+      "restrictionList": null,
+      "extendInfo": null
+    },
+    "chatGroupNum": 0,
+    "liveLevel": 1,
+    "nobilityStatus": 0,
+    "nobilityName": null,
+    "nobilityLevel": 0,
+    "specialId": false,
+    "figureUrl": "http://file.tyi365.com/uploads/sys_figure/left_url/5c48248dec9fe.png",
+    "leftUrl": "http://file.tyi365.com/uploads/sys_figure/left_url/5c48248dec9fe.png",
+    "middleUrl": null,
+    "rightUrl": "http://file.tyi365.com/uploads/sys_figure/right_url/5c48248decb6e.png",
+    "villaUrl": "http://file.tyi365.com/uploads/sys_villa/url/5c4817c6f2136.jpg",
+    "figureX": "0.42",
+    "figureY": "0.9",
+    "mountX": "0.7",
+    "mountY": "0.9",
+    "frameUrl": null,
+    "avatarFrameUrl": null,
+    "figureType": 2,
+    "diamond": 0.0,
+    "charmCredit": 0.0,
+    "lockFlower": 0.0,
+    "partyCoin": 0.0,
+    "vipPermission": {
+      "id": 1,
+      "nameplate": 0,
+      "chatWithAnchorNum": 0,
+      "album": 0,
+      "markedness": 0,
+      "followNum": 1999,
+      "joinChatGroupNum": 10,
+      "chatGroupMemberNum": 200,
+      "createChatGroupNum": 1,
+      "dailyGift": 0,
+      "beautyNum": 0,
+      "greetNum": 3,
+      "greetReplyNum": 3,
+      "vipLevel": 0
+    },
+    "tiaoPermission": false,
+    "videoBaseIncome": 0.0,
+    "voiceBaseIncome": 0.0,
+    "sysFidPrice": 0.0,
+    "freeFlower": 0.0,
+    "boxRecordFlag": 2,
+    "rechargeCredit": 0.0,
+    "autoRenew": false,
+    "friendBtn": false,
+    "newUserFlag": false,
+    "localTyrant": null,
+    "stewardFlower": 0.0,
+    "skillFlag": false,
+    "qqUnionId": null,
+    "doNotDisturbFlag": false,
+    "freeChat": false,
+    "userInfoExtraVOList": [
+      {
+        "id": 1,
+        "columnName": "性格",
+        "sort": 1,
+        "status": 2,
+        "extraId": null,
+        "extraName": null,
+        "extraList": [
+          {
+            "id": 67,
+            "name": "贴心软妹",
+            "status": 2
+          },
+          {
+            "id": 79,
+            "name": "惹火撩人",
+            "status": 2
+          },
+          {
+            "id": 81,
+            "name": "撩骚",
+            "status": 2
+          },
+          {
+            "id": 93,
+            "name": "完美身材",
+            "status": 2
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "columnName": "爱好",
+        "sort": 1,
+        "status": 1,
+        "extraId": null,
+        "extraName": "魅惑",
+        "extraList": [
+          {
+            "id": 75,
+            "name": "比基尼",
+            "status": 2
+          },
+          {
+            "id": 76,
+            "name": "极品尤物",
+            "status": 2
+          },
+          {
+            "id": 94,
+            "name": "氧气美女",
+            "status": 2
+          },
+          {
+            "id": 95,
+            "name": "养眼",
+            "status": 2
+          },
+          {
+            "id": 96,
+            "name": "妄想",
+            "status": 2
+          },
+          {
+            "id": 97,
+            "name": "魅惑",
+            "status": 1
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "columnName": "特长",
+        "sort": 3,
+        "status": 1,
+        "extraId": null,
+        "extraName": "热舞",
+        "extraList": [
+          {
+            "id": 69,
+            "name": "好声音",
+            "status": 2
+          },
+          {
+            "id": 70,
+            "name": "热舞",
+            "status": 1
+          },
+          {
+            "id": 73,
+            "name": "舞女郎",
+            "status": 2
+          },
+          {
+            "id": 85,
+            "name": "实力唱将",
+            "status": 2
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "columnName": "身材",
+        "sort": 4,
+        "status": 1,
+        "extraId": 68,
+        "extraName": "性感妩媚",
+        "extraList": [
+          {
+            "id": 68,
+            "name": "性感妩媚",
+            "status": 1
+          },
+          {
+            "id": 78,
+            "name": "热辣",
+            "status": 2
+          },
+          {
+            "id": 86,
+            "name": "香肩",
+            "status": 2
+          },
+          {
+            "id": 99,
+            "name": "辣妹",
+            "status": 2
+          },
+          {
+            "id": 100,
+            "name": "性感翘臀",
+            "status": 2
+          },
+          {
+            "id": 103,
+            "name": "波涛汹涌",
+            "status": 2
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "columnName": "风格",
+        "sort": 5,
+        "status": 2,
+        "extraId": null,
+        "extraName": null,
+        "extraList": [
+          {
+            "id": 74,
+            "name": "天真呆萌",
+            "status": 2
+          },
+          {
+            "id": 80,
+            "name": "污女",
+            "status": 2
+          },
+          {
+            "id": 82,
+            "name": "温暖治愈",
+            "status": 2
+          },
+          {
+            "id": 84,
+            "name": "温柔可爱",
+            "status": 2
+          },
+          {
+            "id": 88,
+            "name": "冷艳",
+            "status": 2
+          },
+          {
+            "id": 90,
+            "name": "野性",
+            "status": 2
+          },
+          {
+            "id": 91,
+            "name": "甜美",
+            "status": 2
+          },
+          {
+            "id": 92,
+            "name": "娇艳",
+            "status": 2
+          },
+          {
+            "id": 102,
+            "name": "治愈系",
+            "status": 2
+          },
+          {
+            "id": 104,
+            "name": "清纯",
+            "status": 2
+          },
+          {
+            "id": 89,
+            "name": "明星脸",
+            "status": 2
+          },
+          {
+            "id": 98,
+            "name": "痴女",
+            "status": 2
+          },
+          {
+            "id": 101,
+            "name": "风俗媚娘",
+            "status": 2
+          }
+        ]
+      }
+    ]
+  }
+}

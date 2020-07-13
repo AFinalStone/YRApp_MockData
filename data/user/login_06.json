@@ -1,0 +1,11 @@
+{
+  "code": 0,
+  "message": "SUCCESS",
+  "data": {
+    "uid": 69730,
+    "isSetPassword": 1,
+    "gesturePassWord": null,
+    "imToken": "104e2a8345db4e57f2755ce0cb840090",
+    "token": "f3ce4b7699948a66a77e78d1176eca66"
+  }
+}

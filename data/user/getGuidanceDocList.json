@@ -1,0 +1,28 @@
+{
+  "code": 0,
+  "message": "SUCCESS",
+  "data": {
+    "list": [{
+      "id": 1,
+      "type": 1,
+      "mainTitle": "开通会员与美女畅聊",
+      "viceTitle": "对方设置了只接受会员用户和好友的消息",
+      "buttonDoc": "开会员马上聊",
+      "remindDoc": "开通会员，享<10>大特权，你值得拥有"
+    }, {
+      "id": 2,
+      "type": 2,
+      "mainTitle": "美女正在等你来撩哦",
+      "viceTitle": "只要10元，女神立马带走",
+      "buttonDoc": "充点小钱，激情一下",
+      "remindDoc": "充值完成，还有价值<198元>充值大礼包赠送"
+    }, {
+      "id": 3,
+      "type": 3,
+      "mainTitle": "美女正在等你来撩哦",
+      "viceTitle": "最少1分钟起撩",
+      "buttonDoc": "马上充值开撩",
+      "remindDoc": "充值完成，前往我的任务领取充值大礼包"
+    }]
+  }
+}

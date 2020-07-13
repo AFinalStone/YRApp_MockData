@@ -1,0 +1,618 @@
+{
+  "code": 0,
+  "message": "SUCCESS",
+  "data": {
+    "gradeMedalInfo": {
+      "0": {
+        "id": 4,
+        "level": 0,
+        "exp": 0.00,
+        "effectUrl": null,
+        "levelColor": "#5dcce5",
+        "userType": 1,
+        "userIcon": "http://fdfs-uat.tyi365.com/img/M00/00/0F/rB_IzV2Am_SABq_MAAAPfvEHXBM337.png",
+        "anchorIcon": "http://fdfs-uat.tyi365.com/img/M00/00/0F/rB_IzV2Am-iAWKPgAAARaX1Y48k563.png"
+      },
+      "1": {
+        "id": 5,
+        "level": 1,
+        "exp": 60.00,
+        "effectUrl": null,
+        "levelColor": "#5dcce5",
+        "userType": 1,
+        "userIcon": "http://fdfs-uat.tyi365.com/img/M00/00/0F/rB_IzV1_U92AO1W0AAAPfvEHXBM602.png",
+        "anchorIcon": "http://fdfs-uat.tyi365.com/img/M00/00/0F/rB_IzV1_VZGAXuW6AAARaX1Y48k365.png"
+      },
+      "2": {
+        "id": 6,
+        "level": 2,
+        "exp": 300.00,
+        "effectUrl": null,
+        "levelColor": "#5dcce5",
+        "userType": 1,
+        "userIcon": "http://fdfs-uat.tyi365.com/img/M00/00/0F/rB_IzV1_U92AO1W0AAAPfvEHXBM602.png",
+        "anchorIcon": "http://fdfs-uat.tyi365.com/img/M00/00/0F/rB_IzV1_VZGAXuW6AAARaX1Y48k365.png"
+      },
+      "3": {
+        "id": 7,
+        "level": 3,
+        "exp": 600.00,
+        "effectUrl": null,
+        "levelColor": "#5dcce5",
+        "userType": 1,
+        "userIcon": "http://fdfs-uat.tyi365.com/img/M00/00/0F/rB_IzV1_U92AO1W0AAAPfvEHXBM602.png",
+        "anchorIcon": "http://fdfs-uat.tyi365.com/img/M00/00/0F/rB_IzV1_VZGAXuW6AAARaX1Y48k365.png"
+      },
+      "4": {
+        "id": 8,
+        "level": 4,
+        "exp": 900.00,
+        "effectUrl": null,
+        "levelColor": "#5dcce5",
+        "userType": 1,
+        "userIcon": "http://fdfs-uat.tyi365.com/img/M00/00/0F/rB_IzV1_U92AO1W0AAAPfvEHXBM602.png",
+        "anchorIcon": "http://fdfs-uat.tyi365.com/img/M00/00/0F/rB_IzV1_VZGAXuW6AAARaX1Y48k365.png"
+      },
+      "5": {
+        "id": 9,
+        "level": 5,
+        "exp": 1400.00,
+        "effectUrl": null,
+        "levelColor": "#5dcce5",
+        "userType": 1,
+        "userIcon": "http://fdfs-uat.tyi365.com/img/M00/00/0F/rB_IzV1_U92AO1W0AAAPfvEHXBM602.png",
+        "anchorIcon": "http://fdfs-uat.tyi365.com/img/M00/00/0F/rB_IzV1_VZGAXuW6AAARaX1Y48k365.png"
+      },
+      "6": {
+        "id": 10,
+        "level": 6,
+        "exp": 2100.00,
+        "effectUrl": null,
+        "levelColor": "#68ade7",
+        "userType": 1,
+        "userIcon": "http://fdfs-uat.tyi365.com/img/M00/00/0F/rB_IzV1_VA-AJ1FYAAASKueMPvk866.png",
+        "anchorIcon": "http://fdfs-uat.tyi365.com/img/M00/00/0F/rB_IzV1_VaOAPraBAAAQ-xPHwfQ275.png"
+      },
+      "7": {
+        "id": 11,
+        "level": 7,
+        "exp": 4200.00,
+        "effectUrl": null,
+        "levelColor": "#68ade7",
+        "userType": 1,
+        "userIcon": "http://fdfs-uat.tyi365.com/img/M00/00/0F/rB_IzV1_VA-AJ1FYAAASKueMPvk866.png",
+        "anchorIcon": "http://fdfs-uat.tyi365.com/img/M00/00/0F/rB_IzV1_VaOAPraBAAAQ-xPHwfQ275.png"
+      },
+      "8": {
+        "id": 12,
+        "level": 8,
+        "exp": 6300.00,
+        "effectUrl": null,
+        "levelColor": "#68ade7",
+        "userType": 1,
+        "userIcon": "http://fdfs-uat.tyi365.com/img/M00/00/0F/rB_IzV1_VA-AJ1FYAAASKueMPvk866.png",
+        "anchorIcon": "http://fdfs-uat.tyi365.com/img/M00/00/0F/rB_IzV1_VaOAPraBAAAQ-xPHwfQ275.png"
+      },
+      "9": {
+        "id": 13,
+        "level": 9,
+        "exp": 9400.00,
+        "effectUrl": null,
+        "levelColor": "#68ade7",
+        "userType": 1,
+        "userIcon": "http://fdfs-uat.tyi365.com/img/M00/00/0F/rB_IzV1_VA-AJ1FYAAASKueMPvk866.png",
+        "anchorIcon": "http://fdfs-uat.tyi365.com/img/M00/00/0F/rB_IzV1_VaOAPraBAAAQ-xPHwfQ275.png"
+      },
+      "10": {
+        "id": 14,
+        "level": 10,
+        "exp": 12600.00,
+        "effectUrl": null,
+        "levelColor": "#68ade7",
+        "userType": 1,
+        "userIcon": "http://fdfs-uat.tyi365.com/img/M00/00/0F/rB_IzV1_VA-AJ1FYAAASKueMPvk866.png",
+        "anchorIcon": "http://fdfs-uat.tyi365.com/img/M00/00/0F/rB_IzV1_VaOAPraBAAAQ-xPHwfQ275.png"
+      },
+      "11": {
+        "id": 15,
+        "level": 11,
+        "exp": 15700.00,
+        "effectUrl": null,
+        "levelColor": "#a6dd58",
+        "userType": 1,
+        "userIcon": "http://fdfs-uat.tyi365.com/img/M00/00/0F/rB_IzV1_VBeAKDbnAAAXtkz3x2A603.png",
+        "anchorIcon": "http://fdfs-uat.tyi365.com/img/M00/00/0F/rB_IzV1_VauAMC87AAASTuhWhio724.png"
+      },
+      "12": {
+        "id": 16,
+        "level": 12,
+        "exp": 18900.00,
+        "effectUrl": null,
+        "levelColor": "#a6dd58",
+        "userType": 1,
+        "userIcon": "http://fdfs-uat.tyi365.com/img/M00/00/0F/rB_IzV1_VBeAKDbnAAAXtkz3x2A603.png",
+        "anchorIcon": "http://fdfs-uat.tyi365.com/img/M00/00/0F/rB_IzV1_VauAMC87AAASTuhWhio724.png"
+      },
+      "13": {
+        "id": 17,
+        "level": 13,
+        "exp": 27300.00,
+        "effectUrl": null,
+        "levelColor": "#a6dd58",
+        "userType": 1,
+        "userIcon": "http://fdfs-uat.tyi365.com/img/M00/00/0F/rB_IzV1_VBeAKDbnAAAXtkz3x2A603.png",
+        "anchorIcon": "http://fdfs-uat.tyi365.com/img/M00/00/0F/rB_IzV1_VauAMC87AAASTuhWhio724.png"
+      },
+      "14": {
+        "id": 18,
+        "level": 14,
+        "exp": 37800.00,
+        "effectUrl": null,
+        "levelColor": "#a6dd58",
+        "userType": 1,
+        "userIcon": "http://fdfs-uat.tyi365.com/img/M00/00/0F/rB_IzV1_VBeAKDbnAAAXtkz3x2A603.png",
+        "anchorIcon": "http://fdfs-uat.tyi365.com/img/M00/00/0F/rB_IzV1_VauAMC87AAASTuhWhio724.png"
+      },
+      "15": {
+        "id": 19,
+        "level": 15,
+        "exp": 50400.00,
+        "effectUrl": null,
+        "levelColor": "#a6dd58",
+        "userType": 1,
+        "userIcon": "http://fdfs-uat.tyi365.com/img/M00/00/0F/rB_IzV1_VBeAKDbnAAAXtkz3x2A603.png",
+        "anchorIcon": "http://fdfs-uat.tyi365.com/img/M00/00/0F/rB_IzV1_VauAMC87AAASTuhWhio724.png"
+      },
+      "16": {
+        "id": 20,
+        "level": 16,
+        "exp": 65100.00,
+        "effectUrl": null,
+        "levelColor": "#f5d246",
+        "userType": 1,
+        "userIcon": "http://fdfs-uat.tyi365.com/img/M00/00/0F/rB_IzV1_VEOAY86kAAAVJ-IjHRs678.png",
+        "anchorIcon": "http://fdfs-uat.tyi365.com/img/M00/00/0F/rB_IzV1_VbKAU7tcAAAStJcMNbk820.png"
+      },
+      "17": {
+        "id": 21,
+        "level": 17,
+        "exp": 89900.00,
+        "effectUrl": null,
+        "levelColor": "#f5d246",
+        "userType": 1,
+        "userIcon": "http://fdfs-uat.tyi365.com/img/M00/00/0F/rB_IzV2BzruAc8JEAAAtBzViisM188.png",
+        "anchorIcon": "http://fdfs-uat.tyi365.com/img/M00/00/0F/rB_IzV1_VbKAU7tcAAAStJcMNbk820.png"
+      },
+      "18": {
+        "id": 22,
+        "level": 18,
+        "exp": 119900.00,
+        "effectUrl": null,
+        "levelColor": "#f5d246",
+        "userType": 1,
+        "userIcon": "http://fdfs-uat.tyi365.com/img/M00/00/0F/rB_IzV2BzzaAdejsAAAp6pzEjLU213.png",
+        "anchorIcon": "http://fdfs-uat.tyi365.com/img/M00/00/0F/rB_IzV1_VbKAU7tcAAAStJcMNbk820.png"
+      },
+      "19": {
+        "id": 23,
+        "level": 19,
+        "exp": 155200.00,
+        "effectUrl": null,
+        "levelColor": "#f5d246",
+        "userType": 1,
+        "userIcon": "http://fdfs-uat.tyi365.com/img/M00/00/0F/rB_IzV1_VEOAY86kAAAVJ-IjHRs678.png",
+        "anchorIcon": "http://fdfs-uat.tyi365.com/img/M00/00/0F/rB_IzV1_VbKAU7tcAAAStJcMNbk820.png"
+      },
+      "20": {
+        "id": 24,
+        "level": 20,
+        "exp": 200500.00,
+        "effectUrl": null,
+        "levelColor": "#f5d246",
+        "userType": 1,
+        "userIcon": "http://fdfs-uat.tyi365.com/img/M00/00/0F/rB_IzV1_VEOAY86kAAAVJ-IjHRs678.png",
+        "anchorIcon": "http://fdfs-uat.tyi365.com/img/M00/00/0F/rB_IzV1_VbKAU7tcAAAStJcMNbk820.png"
+      },
+      "21": {
+        "id": 25,
+        "level": 21,
+        "exp": 256800.00,
+        "effectUrl": null,
+        "levelColor": "#f1924c",
+        "userType": 1,
+        "userIcon": "http://fdfs-uat.tyi365.com/img/M00/00/0F/rB_IzV1_VFOAaNFRAAAa9TGue5Y653.png",
+        "anchorIcon": "http://fdfs-uat.tyi365.com/img/M00/00/0F/rB_IzV1_VbqAQOHmAAATVI3n6AM662.png"
+      },
+      "22": {
+        "id": 26,
+        "level": 22,
+        "exp": 325200.00,
+        "effectUrl": null,
+        "levelColor": "#f1924c",
+        "userType": 1,
+        "userIcon": "http://fdfs-uat.tyi365.com/img/M00/00/0F/rB_IzV1_VFOAaNFRAAAa9TGue5Y653.png",
+        "anchorIcon": "http://fdfs-uat.tyi365.com/img/M00/00/0F/rB_IzV1_VbqAQOHmAAATVI3n6AM662.png"
+      },
+      "23": {
+        "id": 27,
+        "level": 23,
+        "exp": 406900.00,
+        "effectUrl": null,
+        "levelColor": "#f1924c",
+        "userType": 1,
+        "userIcon": "http://fdfs-uat.tyi365.com/img/M00/00/0F/rB_IzV1_VFOAaNFRAAAa9TGue5Y653.png",
+        "anchorIcon": "http://fdfs-uat.tyi365.com/img/M00/00/0F/rB_IzV1_VbqAQOHmAAATVI3n6AM662.png"
+      },
+      "24": {
+        "id": 28,
+        "level": 24,
+        "exp": 519600.00,
+        "effectUrl": null,
+        "levelColor": "#f1924c",
+        "userType": 1,
+        "userIcon": "http://fdfs-uat.tyi365.com/img/M00/00/0F/rB_IzV1_VFOAaNFRAAAa9TGue5Y653.png",
+        "anchorIcon": "http://fdfs-uat.tyi365.com/img/M00/00/0F/rB_IzV1_VbqAQOHmAAATVI3n6AM662.png"
+      },
+      "25": {
+        "id": 29,
+        "level": 25,
+        "exp": 664500.00,
+        "effectUrl": null,
+        "levelColor": "#f1924c",
+        "userType": 1,
+        "userIcon": "http://fdfs-uat.tyi365.com/img/M00/00/0F/rB_IzV1_VFOAaNFRAAAa9TGue5Y653.png",
+        "anchorIcon": "http://fdfs-uat.tyi365.com/img/M00/00/0F/rB_IzV1_VbqAQOHmAAATVI3n6AM662.png"
+      },
+      "26": {
+        "id": 30,
+        "level": 26,
+        "exp": 860500.00,
+        "effectUrl": null,
+        "levelColor": "#ee69a1",
+        "userType": 1,
+        "userIcon": "http://fdfs-uat.tyi365.com/img/M00/00/0F/rB_IzV1_VF6AUgQvAAAYt1Ug3es777.png",
+        "anchorIcon": "http://fdfs-uat.tyi365.com/img/M00/00/0F/rB_IzV1_VceAI_TWAAAT3XHrbf0896.png"
+      },
+      "27": {
+        "id": 31,
+        "level": 27,
+        "exp": 1108700.00,
+        "effectUrl": null,
+        "levelColor": "#ee69a1",
+        "userType": 1,
+        "userIcon": "http://fdfs-uat.tyi365.com/img/M00/00/0F/rB_IzV1_VF6AUgQvAAAYt1Ug3es777.png",
+        "anchorIcon": "http://fdfs-uat.tyi365.com/img/M00/00/0F/rB_IzV1_VceAI_TWAAAT3XHrbf0896.png"
+      },
+      "28": {
+        "id": 32,
+        "level": 28,
+        "exp": 1438000.00,
+        "effectUrl": null,
+        "levelColor": "#ee69a1",
+        "userType": 1,
+        "userIcon": "http://fdfs-uat.tyi365.com/img/M00/00/0F/rB_IzV1_VF6AUgQvAAAYt1Ug3es777.png",
+        "anchorIcon": "http://fdfs-uat.tyi365.com/img/M00/00/0F/rB_IzV1_VceAI_TWAAAT3XHrbf0896.png"
+      },
+      "29": {
+        "id": 33,
+        "level": 29,
+        "exp": 1849500.00,
+        "effectUrl": null,
+        "levelColor": "#ee69a1",
+        "userType": 1,
+        "userIcon": "http://fdfs-uat.tyi365.com/img/M00/00/0F/rB_IzV1_VF6AUgQvAAAYt1Ug3es777.png",
+        "anchorIcon": "http://fdfs-uat.tyi365.com/img/M00/00/0F/rB_IzV1_VceAI_TWAAAT3XHrbf0896.png"
+      },
+      "30": {
+        "id": 34,
+        "level": 30,
+        "exp": 2372200.00,
+        "effectUrl": null,
+        "levelColor": "#ee69a1",
+        "userType": 1,
+        "userIcon": "http://fdfs-uat.tyi365.com/img/M00/00/0F/rB_IzV1_VF6AUgQvAAAYt1Ug3es777.png",
+        "anchorIcon": "http://fdfs-uat.tyi365.com/img/M00/00/0F/rB_IzV1_VceAI_TWAAAT3XHrbf0896.png"
+      },
+      "31": {
+        "id": 76,
+        "level": 31,
+        "exp": 3066700.00,
+        "effectUrl": null,
+        "levelColor": "#e66568",
+        "userType": 1,
+        "userIcon": "http://fdfs-uat.tyi365.com/img/M00/00/0F/rB_IzV1_VGiAVL2uAAAbILnxh4g425.png",
+        "anchorIcon": "http://fdfs-uat.tyi365.com/img/M00/00/0F/rB_IzV1_Vc6AIBi2AAAU-V6S4-s360.png"
+      },
+      "32": {
+        "id": 78,
+        "level": 32,
+        "exp": 3866200.00,
+        "effectUrl": null,
+        "levelColor": "#e66568",
+        "userType": 1,
+        "userIcon": "http://fdfs-uat.tyi365.com/img/M00/00/0F/rB_IzV1_VGiAVL2uAAAbILnxh4g425.png",
+        "anchorIcon": "http://fdfs-uat.tyi365.com/img/M00/00/0F/rB_IzV1_Vc6AIBi2AAAU-V6S4-s360.png"
+      },
+      "33": {
+        "id": 79,
+        "level": 33,
+        "exp": 4578000.00,
+        "effectUrl": null,
+        "levelColor": "#e66568",
+        "userType": 1,
+        "userIcon": "http://fdfs-uat.tyi365.com/img/M00/00/0F/rB_IzV1_VGiAVL2uAAAbILnxh4g425.png",
+        "anchorIcon": "http://fdfs-uat.tyi365.com/img/M00/00/0F/rB_IzV1_Vc6AIBi2AAAU-V6S4-s360.png"
+      },
+      "34": {
+        "id": 80,
+        "level": 34,
+        "exp": 5466600.00,
+        "effectUrl": null,
+        "levelColor": "#e66568",
+        "userType": 1,
+        "userIcon": "http://fdfs-uat.tyi365.com/img/M00/00/0F/rB_IzV1_VGiAVL2uAAAbILnxh4g425.png",
+        "anchorIcon": "http://fdfs-uat.tyi365.com/img/M00/00/0F/rB_IzV1_Vc6AIBi2AAAU-V6S4-s360.png"
+      },
+      "35": {
+        "id": 81,
+        "level": 35,
+        "exp": 6388990.00,
+        "effectUrl": null,
+        "levelColor": "#e66568",
+        "userType": 1,
+        "userIcon": "http://fdfs-uat.tyi365.com/img/M00/00/0F/rB_IzV1_VGiAVL2uAAAbILnxh4g425.png",
+        "anchorIcon": "http://fdfs-uat.tyi365.com/img/M00/00/0F/rB_IzV1_Vc6AIBi2AAAU-V6S4-s360.png"
+      },
+      "36": {
+        "id": 82,
+        "level": 36,
+        "exp": 7577990.00,
+        "effectUrl": null,
+        "levelColor": "#7932e3",
+        "userType": 1,
+        "userIcon": "http://fdfs-uat.tyi365.com/img/M00/00/0F/rB_IzV1_VHOAWXD2AAAivrwLupQ332.png",
+        "anchorIcon": "http://fdfs-uat.tyi365.com/img/M00/00/0F/rB_IzV1_VdWAUEYDAAAk7DjOi30703.png"
+      },
+      "37": {
+        "id": 83,
+        "level": 37,
+        "exp": 8766880.00,
+        "effectUrl": null,
+        "levelColor": "#7932e3",
+        "userType": 1,
+        "userIcon": "http://fdfs-uat.tyi365.com/img/M00/00/0F/rB_IzV1_VHOAWXD2AAAivrwLupQ332.png",
+        "anchorIcon": "http://fdfs-uat.tyi365.com/img/M00/00/0F/rB_IzV1_VdWAUEYDAAAk7DjOi30703.png"
+      },
+      "38": {
+        "id": 84,
+        "level": 38,
+        "exp": 10066770.00,
+        "effectUrl": null,
+        "levelColor": "#7932e3",
+        "userType": 1,
+        "userIcon": "http://fdfs-uat.tyi365.com/img/M00/00/0F/rB_IzV1_VHOAWXD2AAAivrwLupQ332.png",
+        "anchorIcon": "http://fdfs-uat.tyi365.com/img/M00/00/0F/rB_IzV1_VdWAUEYDAAAk7DjOi30703.png"
+      },
+      "39": {
+        "id": 85,
+        "level": 39,
+        "exp": 12306880.00,
+        "effectUrl": null,
+        "levelColor": "#7932e3",
+        "userType": 1,
+        "userIcon": "http://fdfs-uat.tyi365.com/img/M00/00/0F/rB_IzV1_VHOAWXD2AAAivrwLupQ332.png",
+        "anchorIcon": "http://fdfs-uat.tyi365.com/img/M00/00/0F/rB_IzV1_VdWAUEYDAAAk7DjOi30703.png"
+      },
+      "40": {
+        "id": 86,
+        "level": 40,
+        "exp": 15000000.00,
+        "effectUrl": null,
+        "levelColor": "#7932e3",
+        "userType": 1,
+        "userIcon": "http://fdfs-uat.tyi365.com/img/M00/00/0F/rB_IzV1_VHOAWXD2AAAivrwLupQ332.png",
+        "anchorIcon": "http://fdfs-uat.tyi365.com/img/M00/00/0F/rB_IzV1_VdWAUEYDAAAk7DjOi30703.png"
+      },
+      "41": {
+        "id": 87,
+        "level": 41,
+        "exp": 18000520.00,
+        "effectUrl": null,
+        "levelColor": "#D108E2",
+        "userType": 1,
+        "userIcon": "http://fdfs-uat.tyi365.com/img/M00/00/0F/rB_IzV1_VQiAMDmfAAAhHyCKV0M889.png",
+        "anchorIcon": "http://fdfs-uat.tyi365.com/img/M00/00/0F/rB_IzV1_VdWAUEYDAAAk7DjOi30703.png"
+      },
+      "42": {
+        "id": 88,
+        "level": 42,
+        "exp": 21000669.00,
+        "effectUrl": null,
+        "levelColor": "#D108E2",
+        "userType": 1,
+        "userIcon": "http://fdfs-uat.tyi365.com/img/M00/00/0F/rB_IzV1_VQiAMDmfAAAhHyCKV0M889.png",
+        "anchorIcon": null
+      },
+      "43": {
+        "id": 89,
+        "level": 43,
+        "exp": 25000799.00,
+        "effectUrl": null,
+        "levelColor": "#D108E2",
+        "userType": 1,
+        "userIcon": "http://fdfs-uat.tyi365.com/img/M00/00/0F/rB_IzV1_VQiAMDmfAAAhHyCKV0M889.png",
+        "anchorIcon": null
+      },
+      "44": {
+        "id": 90,
+        "level": 44,
+        "exp": 29000128.00,
+        "effectUrl": null,
+        "levelColor": "#D108E2",
+        "userType": 1,
+        "userIcon": "http://fdfs-uat.tyi365.com/img/M00/00/0F/rB_IzV1_VQiAMDmfAAAhHyCKV0M889.png",
+        "anchorIcon": null
+      },
+      "45": {
+        "id": 91,
+        "level": 45,
+        "exp": 34000639.00,
+        "effectUrl": null,
+        "levelColor": "#D108E2",
+        "userType": 1,
+        "userIcon": "http://fdfs-uat.tyi365.com/img/M00/00/0F/rB_IzV1_VQiAMDmfAAAhHyCKV0M889.png",
+        "anchorIcon": null
+      },
+      "46": {
+        "id": 92,
+        "level": 46,
+        "exp": 43000729.00,
+        "effectUrl": null,
+        "levelColor": "#FFD632",
+        "userType": 1,
+        "userIcon": "http://fdfs-uat.tyi365.com/img/M00/00/0F/rB_IzV1_VQCACUxqAAAWqvPdc1M741.png",
+        "anchorIcon": null
+      },
+      "47": {
+        "id": 93,
+        "level": 47,
+        "exp": 58000899.00,
+        "effectUrl": null,
+        "levelColor": "#FC4413",
+        "userType": 1,
+        "userIcon": "http://fdfs-uat.tyi365.com/img/M00/00/0F/rB_IzV1_VQCACUxqAAAWqvPdc1M741.png",
+        "anchorIcon": null
+      },
+      "48": {
+        "id": 94,
+        "level": 48,
+        "exp": 69000628.00,
+        "effectUrl": null,
+        "levelColor": "#FC4413",
+        "userType": 1,
+        "userIcon": "http://fdfs-uat.tyi365.com/img/M00/00/0F/rB_IzV1_VQCACUxqAAAWqvPdc1M741.png",
+        "anchorIcon": null
+      },
+      "49": {
+        "id": 95,
+        "level": 49,
+        "exp": 80000999.00,
+        "effectUrl": null,
+        "levelColor": "#FC4413",
+        "userType": 1,
+        "userIcon": "http://fdfs-uat.tyi365.com/img/M00/00/0F/rB_IzV1_VQCACUxqAAAWqvPdc1M741.png",
+        "anchorIcon": null
+      },
+      "50": {
+        "id": 96,
+        "level": 50,
+        "exp": 100000000.00,
+        "effectUrl": null,
+        "levelColor": "#FC4413",
+        "userType": 1,
+        "userIcon": "http://fdfs-uat.tyi365.com/img/M00/00/0F/rB_IzV1_VQCACUxqAAAWqvPdc1M741.png",
+        "anchorIcon": null
+      },
+      "51": {
+        "id": 97,
+        "level": 51,
+        "exp": 999999997.00,
+        "effectUrl": null,
+        "levelColor": "#B81010",
+        "userType": 1,
+        "userIcon": "http://fdfs-uat.tyi365.com/img/M00/00/0F/rB_IzV1_VPiAS4S5AAAaY3Sv5H8313.png",
+        "anchorIcon": null
+      },
+      "52": {
+        "id": 98,
+        "level": 52,
+        "exp": 999999997.00,
+        "effectUrl": null,
+        "levelColor": "#B81010",
+        "userType": 1,
+        "userIcon": "http://fdfs-uat.tyi365.com/img/M00/00/0F/rB_IzV1_VPiAS4S5AAAaY3Sv5H8313.png",
+        "anchorIcon": null
+      },
+      "53": {
+        "id": 99,
+        "level": 53,
+        "exp": 999999997.00,
+        "effectUrl": null,
+        "levelColor": "#B81010",
+        "userType": 1,
+        "userIcon": "http://fdfs-uat.tyi365.com/img/M00/00/0F/rB_IzV1_VPiAS4S5AAAaY3Sv5H8313.png",
+        "anchorIcon": null
+      },
+      "54": {
+        "id": 100,
+        "level": 54,
+        "exp": 999999997.00,
+        "effectUrl": null,
+        "levelColor": "#B81010",
+        "userType": 1,
+        "userIcon": "http://fdfs-uat.tyi365.com/img/M00/00/0F/rB_IzV1_VPiAS4S5AAAaY3Sv5H8313.png",
+        "anchorIcon": null
+      },
+      "55": {
+        "id": 101,
+        "level": 55,
+        "exp": 999999997.00,
+        "effectUrl": null,
+        "levelColor": "#B81010",
+        "userType": 1,
+        "userIcon": "http://fdfs-uat.tyi365.com/img/M00/00/0F/rB_IzV1_VPiAS4S5AAAaY3Sv5H8313.png",
+        "anchorIcon": null
+      },
+      "56": {
+        "id": 102,
+        "level": 56,
+        "exp": 999999997.00,
+        "effectUrl": null,
+        "levelColor": "#B81010",
+        "userType": 1,
+        "userIcon": "http://fdfs-uat.tyi365.com/img/M00/00/0F/rB_IzV1_VPiAS4S5AAAaY3Sv5H8313.png",
+        "anchorIcon": null
+      },
+      "57": {
+        "id": 103,
+        "level": 57,
+        "exp": 999999997.00,
+        "effectUrl": null,
+        "levelColor": "#B81010",
+        "userType": 1,
+        "userIcon": "http://fdfs-uat.tyi365.com/img/M00/00/0F/rB_IzV1_VPiAS4S5AAAaY3Sv5H8313.png",
+        "anchorIcon": null
+      },
+      "58": {
+        "id": 104,
+        "level": 58,
+        "exp": 999999997.00,
+        "effectUrl": null,
+        "levelColor": "#B81010",
+        "userType": 1,
+        "userIcon": "http://fdfs-uat.tyi365.com/img/M00/00/0F/rB_IzV1_VPiAS4S5AAAaY3Sv5H8313.png",
+        "anchorIcon": null
+      },
+      "59": {
+        "id": 105,
+        "level": 59,
+        "exp": 999999997.00,
+        "effectUrl": null,
+        "levelColor": "#B81010",
+        "userType": 1,
+        "userIcon": "http://fdfs-uat.tyi365.com/img/M00/00/0F/rB_IzV1_VPiAS4S5AAAaY3Sv5H8313.png",
+        "anchorIcon": null
+      },
+      "60": {
+        "id": 106,
+        "level": 60,
+        "exp": 999999997.00,
+        "effectUrl": null,
+        "levelColor": "#B81010",
+        "userType": 1,
+        "userIcon": "http://fdfs-uat.tyi365.com/img/M00/00/0F/rB_IzV1_VPiAS4S5AAAaY3Sv5H8313.png",
+        "anchorIcon": null
+      }
+    }
+  }
+}
