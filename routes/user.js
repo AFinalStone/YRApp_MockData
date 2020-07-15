@@ -153,5 +153,19 @@ router.post('/updateUserInfoExtra', function(req, res, next) {
     res.json(JSON.parse(json))
 })
 
+/**获取自动打招呼列表*/
+router.get('/sayHelloUserList', function(req, res, next) {
+    var file = path.join(__dirname, '../', '/data/user/sayHelloUserList.json');
+    var json = fs.readFileSync(file, 'utf-8')
+    console.log(json)
+    res.json(JSON.parse(json))
+})
+router.post('/sayHelloUserList', function(req, res, next) {
+    var file = path.join(__dirname, '../', '/data/user/sayHelloUserList.json');
+    var json = fs.readFileSync(file, 'utf-8')
+    console.log(json)
+    res.json(JSON.parse(json))
+})
+
 
 module.exports = router;
