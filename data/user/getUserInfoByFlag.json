@@ -1,0 +1,33 @@
+{
+  "code": 0,
+  "message": "SUCCESS",
+  "data": {
+    "uid": 1090913092,
+    "baseInfo": {
+      "nickname": "小哥哥v1013",
+      "avatar": "http://fdfs.tyi365.com/img/M00/2A/F4/rB9QC1tbCA2AOtPNAAVzdBMXMOg579.png?imageMogr2/thumbnail/200x200",
+      "specialId": null,
+      "fid": null,
+      "prettyFid": null,
+      "sex": 1,
+      "isAuth": 0,
+      "newUserFlag": true,
+      "skillFlag": false,
+      "chatExtendPeopleStatus": 0
+    },
+    "walletInfo": null,
+    "nobeInfo": {
+      "autoRenew": false,
+      "nobeStatus": 0,
+      "nobeName": null,
+      "nobeLevel": 0
+    },
+    "expInfo": null,
+    "extendInfo": null,
+    "pkInfo": null,
+    "rightsInfo": null,
+    "mysticInfo": null,
+    "agentInfo": null,
+    "starInfo": null
+  }
+}

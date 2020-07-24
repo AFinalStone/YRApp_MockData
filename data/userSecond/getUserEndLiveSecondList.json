@@ -1,0 +1,29 @@
+{
+  "code": 0,
+  "message": "SUCCESS",
+  "data": {
+    "list": [
+      {
+        "uid": 90001719,
+        "nickname": "秋香",
+        "avatar": "http://test.ihuajian.com/uploads/user/90001719/album/5b09085e4d07c.jpg",
+        "index": 1,
+        "score": 3000
+      },
+      {
+        "uid": 90001720,
+        "nickname": "90001720",
+        "avatar": "http://test.ihuajian.com/uploads/user/90001719/album/5b09085e4d07c.jpg",
+        "index": 2,
+        "score": 2000
+      },
+      {
+        "uid": 90001721,
+        "nickname": "90001720",
+        "avatar": "http://test.ihuajian.com/uploads/user/90001719/album/5b09085e4d07c.jpg",
+        "index": 3,
+        "score": 1000
+      }
+    ]
+  }
+}

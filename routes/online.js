@@ -81,4 +81,32 @@ router.post('/online/heartbeat', function(req, res, next) {
     res.json(JSON.parse(json))
 })
 
+/** 文档列表 */
+router.get('/online/getDocList', function(req, res, next) {
+    var file = path.join(__dirname, '../', '/data/online/getDocList.json');
+    var json = fs.readFileSync(file, 'utf-8')
+    console.log(json)
+    res.json(JSON.parse(json))
+})
+router.post('/online/getDocList', function(req, res, next) {
+    var file = path.join(__dirname, '../', '/data/online/getDocList.json');
+    var json = fs.readFileSync(file, 'utf-8')
+    console.log(json)
+    res.json(JSON.parse(json))
+})
+
+/** 首页条目列表 */
+router.get('/online/getTabHeaderListV770', function(req, res, next) {
+    var file = path.join(__dirname, '../', '/data/online/getTabHeaderListV770.json');
+    var json = fs.readFileSync(file, 'utf-8')
+    console.log(json)
+    res.json(JSON.parse(json))
+})
+router.post('/online/getTabHeaderListV770', function(req, res, next) {
+    var file = path.join(__dirname, '../', '/data/online/getTabHeaderListV770.json');
+    var json = fs.readFileSync(file, 'utf-8')
+    console.log(json)
+    res.json(JSON.parse(json))
+})
+
 module.exports = router;

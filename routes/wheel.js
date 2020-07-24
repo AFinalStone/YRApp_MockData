@@ -13,15 +13,9 @@ router.all('*', function (req, res, next) {
 
 
 
-/** 每日任务获取SVG连接列表 */
-router.get('/daytask/getLiveDaySvgUrlList', function(req, res, next) {
-    var file = path.join(__dirname, '../', '/daytask/getLiveDaySvgUrlList.json');
-    var json = fs.readFileSync(file, 'utf-8')
-    console.log(json)
-    res.json(JSON.parse(json))
-})
-router.post('/daytask/getLiveDaySvgUrlList', function(req, res, next) {
-    var file = path.join(__dirname, '../', '/daytask/getLiveDaySvgUrlList.json');
+/** 测试方法 */
+router.get('/test', function(req, res, next) {
+    var file = path.join(__dirname, '../', '/data/community/user.json');
     var json = fs.readFileSync(file, 'utf-8')
     console.log(json)
     res.json(JSON.parse(json))

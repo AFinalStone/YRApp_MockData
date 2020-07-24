@@ -1,0 +1,11 @@
+{
+  "code": 0,
+  "message": "SUCCESS",
+  "data": {
+    "uid": 1090913092,
+    "token": "a2f1b86200cfc5f158206d56cd7cd447",
+    "imToken": "a2f1b86200cfc5f158206d56cd7cd447",
+    "flower": 0.0,
+    "hasTaste": 0
+  }
+}

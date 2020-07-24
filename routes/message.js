@@ -19,26 +19,40 @@ router.get('/', function(req, res, next) {
 
 /** 测试方法 */
 router.get('/message/videoInvitation', function(req, res, next) {
-    var file = path.join(__dirname, '../', '/message/videoInvitation.json');
+    var file = path.join(__dirname, '../', '/data/message/videoInvitation.json');
     var json = fs.readFileSync(file, 'utf-8')
     console.log(json)
     res.json(JSON.parse(json))
 })
 router.post('/message/videoInvitation', function(req, res, next) {
-    var file = path.join(__dirname, '../', '/message/videoInvitation.json');
+    var file = path.join(__dirname, '../', '/data/message/videoInvitation.json');
     var json = fs.readFileSync(file, 'utf-8')
     console.log(json)
     res.json(JSON.parse(json))
 })
 /** 测试方法 */
 router.get('/message/getFreeChatInviteTimeList', function(req, res, next) {
-    var file = path.join(__dirname, '../', '/message/getFreeChatInviteTimeList.json');
+    var file = path.join(__dirname, '../', '/data/message/getFreeChatInviteTimeList.json');
     var json = fs.readFileSync(file, 'utf-8')
     console.log(json)
     res.json(JSON.parse(json))
 })
 router.post('/message/getFreeChatInviteTimeList', function(req, res, next) {
-    var file = path.join(__dirname, '../', '/message/getFreeChatInviteTimeList.json');
+    var file = path.join(__dirname, '../', '/data/message/getFreeChatInviteTimeList.json');
+    var json = fs.readFileSync(file, 'utf-8')
+    console.log(json)
+    res.json(JSON.parse(json))
+})
+
+/** 下播一键感谢 */
+router.get('/message/sendUserMsg', function(req, res, next) {
+    var file = path.join(__dirname, '../', '/data/message/sendUserMsg.json');
+    var json = fs.readFileSync(file, 'utf-8')
+    console.log(json)
+    res.json(JSON.parse(json))
+})
+router.post('/message/sendUserMsg', function(req, res, next) {
+    var file = path.join(__dirname, '../', '/data/message/sendUserMsg.json');
     var json = fs.readFileSync(file, 'utf-8')
     console.log(json)
     res.json(JSON.parse(json))

@@ -154,14 +154,84 @@ router.post('/updateUserInfoExtra', function(req, res, next) {
 })
 
 /**获取自动打招呼列表*/
-router.get('/sayHelloUserList', function(req, res, next) {
-    var file = path.join(__dirname, '../', '/data/user/sayHelloUserList.json');
+router.get('/oneKeySayHelloUserListV610', function(req, res, next) {
+    var file = path.join(__dirname, '../', '/data/user/oneKeySayHelloUserListV610ResBean.json');
     var json = fs.readFileSync(file, 'utf-8')
     console.log(json)
     res.json(JSON.parse(json))
 })
-router.post('/sayHelloUserList', function(req, res, next) {
-    var file = path.join(__dirname, '../', '/data/user/sayHelloUserList.json');
+router.post('/oneKeySayHelloUserListV610', function(req, res, next) {
+    var file = path.join(__dirname, '../', '/data/user/oneKeySayHelloUserListV610ResBean.json');
+    var json = fs.readFileSync(file, 'utf-8')
+    console.log(json)
+    res.json(JSON.parse(json))
+})
+
+/**手机注册*/
+router.get('/mobileRegister', function(req, res, next) {
+    var file = path.join(__dirname, '../', '/data/user/mobileRegisterResBean.json');
+    var json = fs.readFileSync(file, 'utf-8')
+    console.log(json)
+    res.json(JSON.parse(json))
+})
+router.post('/mobileRegister', function(req, res, next) {
+    var file = path.join(__dirname, '../', '/data/user/mobileRegisterResBean.json');
+    var json = fs.readFileSync(file, 'utf-8')
+    console.log(json)
+    res.json(JSON.parse(json))
+})
+
+/**手机注册*/
+router.get('/channelRelevanceAnchor', function(req, res, next) {
+    var file = path.join(__dirname, '../', '/data/user/channelRelevanceAnchor.json');
+    var json = fs.readFileSync(file, 'utf-8')
+    console.log(json)
+    res.json(JSON.parse(json))
+})
+router.post('/channelRelevanceAnchor', function(req, res, next) {
+    var file = path.join(__dirname, '../', '/data/user/channelRelevanceAnchor.json');
+    var json = fs.readFileSync(file, 'utf-8')
+    console.log(json)
+    res.json(JSON.parse(json))
+})
+
+/**更新用户信息*/
+router.get('/updateLoginInfo', function(req, res, next) {
+    var file = path.join(__dirname, '../', '/data/user/updateLoginInfo.json');
+    var json = fs.readFileSync(file, 'utf-8')
+    console.log(json)
+    res.json(JSON.parse(json))
+})
+router.post('/updateLoginInfo', function(req, res, next) {
+    var file = path.join(__dirname, '../', '/data/user/updateLoginInfo.json');
+    var json = fs.readFileSync(file, 'utf-8')
+    console.log(json)
+    res.json(JSON.parse(json))
+})
+
+/**通过标记获取用户信息*/
+router.get('/getUserInfoByFlag', function(req, res, next) {
+    var file = path.join(__dirname, '../', '/data/user/getUserInfoByFlag.json');
+    var json = fs.readFileSync(file, 'utf-8')
+    console.log(json)
+    res.json(JSON.parse(json))
+})
+router.post('/getUserInfoByFlag', function(req, res, next) {
+    var file = path.join(__dirname, '../', '/data/user/getUserInfoByFlag.json');
+    var json = fs.readFileSync(file, 'utf-8')
+    console.log(json)
+    res.json(JSON.parse(json))
+})
+
+/**通过标记获取用户信息*/
+router.get('/getGameHall', function(req, res, next) {
+    var file = path.join(__dirname, '../', '/data/user/getGameHall.json');
+    var json = fs.readFileSync(file, 'utf-8')
+    console.log(json)
+    res.json(JSON.parse(json))
+})
+router.post('/getGameHall', function(req, res, next) {
+    var file = path.join(__dirname, '../', '/data/user/getGameHall.json');
     var json = fs.readFileSync(file, 'utf-8')
     console.log(json)
     res.json(JSON.parse(json))

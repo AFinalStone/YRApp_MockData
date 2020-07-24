@@ -4,11 +4,20 @@ var path = require('path');
 var cookieParser = require('cookie-parser');
 var logger = require('morgan');
 
-var indexRouter = require('./routes/index');
-var userRouter = require('./routes/user');
+var allianceRouter = require('./routes/alliance');
+var appConfigRouter = require('./routes/appConfig');
 var communityRouter = require('./routes/community');
+var dayTaskRouter = require('./routes/dayTask');
 var gradePrivilegeRouter = require('./routes/gradePrivilege');
-
+var homeRouter = require('./routes/home');
+var indexRouter = require('./routes/index');
+var messageRouter = require('./routes/message');
+var onlineRouter = require('./routes/online');
+var rechargeRouter = require('./routes/recharge');
+var settingRouter = require('./routes/setting');
+var userRouter = require('./routes/user');
+var userSecondRouter = require('./routes/userSecond');
+var wheelRouter = require('./routes/wheel');
 
 var app = express();
 
@@ -23,9 +32,18 @@ app.use(cookieParser());
 app.use(express.static(path.join(__dirname, 'public')));
 
 app.use('/', indexRouter);
-app.use('/phoenix/user', userRouter);
+app.use('/phoenix/appConfig', appConfigRouter);
 app.use('/phoenix/community', communityRouter);
+app.use('/phoenix/daytask', dayTaskRouter);
 app.use('/phoenix/gradePrivilege', gradePrivilegeRouter);
+app.use('/phoenix/home', homeRouter);
+app.use('/phoenix/index', indexRouter);
+app.use('/phoenix/recharge', rechargeRouter);
+app.use('/phoenix/settingRouter', settingRouter);
+app.use('/phoenix/user', userRouter);
+app.use('/phoenix/userSecond', userSecondRouter);
+app.use('/phoenix/wheel', wheelRouter);
+app.use('/phoenix/alliance', allianceRouter);
 
 // catch 404 and forward to error handler
 app.use(function(req, res, next) {

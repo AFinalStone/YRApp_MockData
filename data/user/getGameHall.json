@@ -1,0 +1,25 @@
+{
+  "code": 0,
+  "message": "SUCCESS",
+  "data": {
+    "gameHall": [{
+      "id": 15,
+      "name": "游戏中心",
+      "iconUrl": "https://yrmanage-uat.tyi365.com/uploads/tab_menu/icon_url/5c94b172a614f.png",
+      "sort": 2,
+      "link": "https://gamecenter-uat.tyi365.com/?fullscreen=true",
+      "state": 1,
+      "menuType": 14,
+      "menuSubType": 1401,
+      "userTypeLimit": null,
+      "pid": 0,
+      "children": null,
+      "resolution": null,
+      "version": 0,
+      "packageName": null,
+      "endTime": null,
+      "propNum": null,
+      "propId": null
+    }]
+  }
+}

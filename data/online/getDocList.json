@@ -1,0 +1,295 @@
+{
+  "code": 0,
+  "message": "SUCCESS",
+  "data": {
+    "anchorAlbumNotEnoughDocList": [{
+      "id": 125,
+      "content": "您的封面不合格，需重新上传封面。（封面不合格将不获得热门推荐）",
+      "status": 1,
+      "type": 63,
+      "duration": null,
+      "updateTime": 1589770478000,
+      "createTime": 1589770478000
+    }],
+    "vipCouponDocList": [{
+      "id": 78,
+      "content": "1、会员折扣券：购买会员时，选择使用折扣 券，仅需要支付打折后的价格 \r\n2、会员翻倍卡：购买会员时，选择使用会员 翻倍卡，将会获得对应倍数的会员天数 如月卡会员1倍卡，使用后将获得60天的会员 有效期",
+      "status": 1,
+      "type": 28,
+      "duration": null,
+      "updateTime": 1558583156000,
+      "createTime": 1558583156000
+    }],
+    "anchorCashOutDocList": [{
+      "id": 124,
+      "content": "这里是提现转出说明文案内容啊啊啊啊",
+      "status": 1,
+      "type": 64,
+      "duration": null,
+      "updateTime": 1573808954000,
+      "createTime": 1573808954000
+    }],
+    "luckyLotteryDocList": [{
+      "id": 60,
+      "content": "1、幸运抽奖：是平台提供主播与观众互动的一个娱乐游戏，主播可设置奖品、参与方式等，用户根据设置的条件参与即可抽奖；\r\n 2、怎么才算参与？当主播发起抽奖后，观众根据主播设置的礼物，送出对应礼物即可参与；\r\n 3、什么时候开奖？送礼达到主播设置的个数时，将会自动开奖；\r\n 4、开奖后，你可以在我的抽奖记录查找是否中奖，若中奖，稍后主播会主动联系你，给你发放奖品 \r\n注：主播提供的奖品是主播个人行为，与平台无关。",
+      "status": 1,
+      "type": 8,
+      "duration": 0,
+      "updateTime": 1534493243000,
+      "createTime": 1534493243000
+    }],
+    "weekStarDocList": [{
+      "id": 59,
+      "content": "1、本期周星礼物：跑车、钻戒 、香水，有特定“周星”标记。<br/>\r\n2、跑车榜最低个数：25个；钻戒榜最低个数：50个；香水榜最低个数：460个。<br/>\r\n3、每个周星礼物排行榜的前3名，并且达到周星礼物最低个数的主播，给予奖励。<br/>\r\n4、周星榜的奖励，将随主播结算一起发放。",
+      "status": 1,
+      "type": 7,
+      "duration": 0,
+      "updateTime": 1547884690000,
+      "createTime": 1547884690000
+    }],
+    "shakeDiceDocList": [{
+      "id": 72,
+      "content": "1、投掷不同的图案可获得不同的奖励。\r\n2、二面均为6时触发大奖。\r\n3、有机率触发全屏红包雨。\r\n4、玩骰子时主播可获得一定比例分成。",
+      "status": 1,
+      "type": 22,
+      "duration": null,
+      "updateTime": 1557800143000,
+      "createTime": 1557800143000
+    }],
+    "inviteChatDocList": [{
+      "id": 104,
+      "content": "老杨是个哈数字",
+      "status": 1,
+      "type": 56,
+      "duration": null,
+      "updateTime": 1569292936000,
+      "createTime": 1569292936000
+    }, {
+      "id": 105,
+      "content": "小美是个大美女，哈哈哈哈哈，测试",
+      "status": 1,
+      "type": 56,
+      "duration": null,
+      "updateTime": 1569292954000,
+      "createTime": 1569292954000
+    }, {
+      "id": 106,
+      "content": "噢噢噢噢哈哈哈哈哈哈哈酷酷酷酷酷酷酷",
+      "status": 1,
+      "type": 56,
+      "duration": null,
+      "updateTime": 1569292968000,
+      "createTime": 1569292968000
+    }, {
+      "id": 107,
+      "content": "祝全国人民国庆节快乐，哈哈哈哈哈哈哈",
+      "status": 1,
+      "type": 56,
+      "duration": null,
+      "updateTime": 1569292997000,
+      "createTime": 1569292997000
+    }, {
+      "id": 108,
+      "content": "今天是个好日子，心想的事儿都能成",
+      "status": 1,
+      "type": 56,
+      "duration": null,
+      "updateTime": 1569293027000,
+      "createTime": 1569293027000
+    }],
+    "anchorBusyDocList": [],
+    "taskAbout": [{
+      "id": 68,
+      "content": "1、主播任务：主播每日可通过收集礼物及完成其他指定任务来闯关，完成所有闯关任务后，将获得任务之星勋章。\r\n2、任务周期：每天零点开启新一轮的任务（开启或有延迟），当日若未完成，次日零点全部重置。\r\n3、直播中断：若直播中断，当日24点前再开播，可以继续任务。",
+      "status": 1,
+      "type": 14,
+      "duration": 0,
+      "updateTime": 1543808215000,
+      "createTime": 1543808215000
+    }],
+    "activityPigDocList": [{
+      "id": 70,
+      "content": "一、玩法说明\r\n1、点击不同的猪猪，开始砸猪\r\n2、砸完猪后，将会获得各种奖励\r\n3、不同的猪获得的奖励不同，越高级的猪，奖励越好\r\n二、中奖概率\r\n1、金猪中奖概率：\r\n烛光晚餐：0.1%\r\n游轮：0.2%\r\n黄金跑车：0.2%\r\n飞机：1%\r\n口红：25%\r\n魅吻：20%\r\n金蛋：33.5%\r\n666:20%\r\n2、银猪中奖概率：\r\n跑车：0.5%\r\n钻戒：2%\r\n皇冠：0.5%\r\n随便花：1%\r\n魅吻：22%\r\n口红：30%\r\n666:22.5%\r\n小黄瓜：21.5%\r\n3、铜猪中奖概率：\r\n钻戒：0.2%\r\n爱的气球：1.5%\r\n666:2.5%\r\n魅吻：10%\r\n口红：20%\r\n魅星：35.8%\r\n么么哒：25%\r\n比心：5%",
+      "status": 1,
+      "type": 20,
+      "duration": null,
+      "updateTime": 1551352845000,
+      "createTime": 1551352845000
+    }],
+    "flowerCouponDocList": [{
+      "id": 79,
+      "content": "这里是花瓣优惠券说明文案",
+      "status": 1,
+      "type": 29,
+      "duration": null,
+      "updateTime": 1558583201000,
+      "createTime": 1587883336000
+    }],
+    "wheelLotteryTicketRuleDocList": [{
+      "id": 67,
+      "content": "1、点击抽奖按钮，花费抽奖券进行抽奖；\r\n2、抽奖券如何获得？可通过每日充值活动，累计达到对应金额，将会获得不同数量的抽奖券；\r\n3、奖券区的奖品分为礼物、坐骑及实物。抽到的奖品都将放入“我的-我的背包”中，坐骑需要使用才会生效。\r\n4、实物奖品需要联系客服才会发放。当凑齐10个iphone XR碎片\u001D，可请联系客服兑换iphone XR手机，客服核实后，会尽快给你发货，到时请注意查收。",
+      "status": 1,
+      "type": 12,
+      "duration": 0,
+      "updateTime": 1542764134000,
+      "createTime": 1542764134000
+    }],
+    "chatTemplateDocList": [],
+    "exchangeTimeNoticeList": [{
+      "id": 80,
+      "content": "花币兑换时间：每周二、\r\n三、四，12:00-15:00\r\n红包券兑换时间：每周二、\r\n三、四，12:00-15:00\r\n微信红包兑换时间：每周二\r\n、三、四，11:00-17:00\r\n请在规定时间内申请兑换",
+      "status": 1,
+      "type": 27,
+      "duration": null,
+      "updateTime": 1558594934000,
+      "createTime": 1558594934000
+    }],
+    "welfareBigRunDocList": [{
+      "id": 148,
+      "content": "这里是福利大放送的规则文案啊啊啊啊啊啊啊啊啊啊啊\r\n这里是福利大放送的规则文案嗯嗯嗯嗯呢好\r\n这是呀呀呀呀呀呀呀呀",
+      "status": 1,
+      "type": 87,
+      "duration": null,
+      "updateTime": 1578037285000,
+      "createTime": 1578037285000
+    }],
+    "freeFlowersDicList": [{
+      "id": 73,
+      "content": "1、参与有时效性的充值活动，可获得活动花瓣\r\n\r\n2、活动花瓣等价于普通花瓣，可用于购买消费物品\r\n\r\n3、活动花瓣仅能参与礼物面板赠送礼物\r\n\r\n4、活动期间内可使用，过期自动清零",
+      "status": 1,
+      "type": 23,
+      "duration": null,
+      "updateTime": 1557737385000,
+      "createTime": 1587883336000
+    }],
+    "shareRewardsList": [{
+      "id": 64,
+      "content": "2222222",
+      "status": 1,
+      "type": 9,
+      "duration": 0,
+      "updateTime": 1567412256000,
+      "createTime": 1567412256000
+    }],
+    "bossAbout": [{
+      "id": 69,
+      "content": "1、什么是boss？boss是主播任务中一种新的互动任务。\r\n2、当出现boss任务时，\b直播间的观众可使用道具攻击boss\b，1花瓣=1血量。\r\n3、观众击杀boss后，将会获得boss掉落的物品，掉落物品只有前10名才有奖励（贡献占比过少时，将不会获得奖励）。\b\r\n4、获得的boss道具，仅在打boss背包中使用。",
+      "status": 1,
+      "type": 13,
+      "duration": 0,
+      "updateTime": 1543993940000,
+      "createTime": 1587883336000
+    }],
+    "appDocList": [{
+      "id": 5,
+      "content": "无聊的时候找我聊天哦",
+      "status": 1,
+      "type": 1,
+      "duration": 0,
+      "updateTime": 1527766065000,
+      "createTime": 1527766065000
+    }, {
+      "id": 7,
+      "content": "今天和你聊的很高兴",
+      "status": 1,
+      "type": 1,
+      "duration": 0,
+      "updateTime": 1513683530000,
+      "createTime": 1513683530000
+    }, {
+      "id": 8,
+      "content": "想继续聊的话私信我呗",
+      "status": 1,
+      "type": 1,
+      "duration": 0,
+      "updateTime": 1527765600000,
+      "createTime": 1527765600000
+    }, {
+      "id": 13,
+      "content": "期待哥哥下次和我视频",
+      "status": 1,
+      "type": 1,
+      "duration": 0,
+      "updateTime": 1527765701000,
+      "createTime": 1527765701000
+    }, {
+      "id": 14,
+      "content": "和哥哥聊的很开心",
+      "status": 1,
+      "type": 1,
+      "duration": 0,
+      "updateTime": 1527766040000,
+      "createTime": 1527766040000
+    }, {
+      "id": 15,
+      "content": "哥哥下次可以再找我聊哦",
+      "status": 1,
+      "type": 1,
+      "duration": 0,
+      "updateTime": 1527765638000,
+      "createTime": 1527765638000
+    }, {
+      "id": 17,
+      "content": "如果聊得开心，请继续Call我哟！",
+      "status": 1,
+      "type": 1,
+      "duration": 0,
+      "updateTime": 1516619176000,
+      "createTime": 1516619176000
+    }, {
+      "id": 18,
+      "content": "很开心在这里遇见你",
+      "status": 1,
+      "type": 1,
+      "duration": 0,
+      "updateTime": 1527767455000,
+      "createTime": 1527767455000
+    }, {
+      "id": 19,
+      "content": "今天很高兴认识你",
+      "status": 1,
+      "type": 1,
+      "duration": 0,
+      "updateTime": 1527765754000,
+      "createTime": 1527765754000
+    }],
+    "starAgentDocList": [{
+      "id": 133,
+      "content": "11111111111111111111\r\n经纪人规则介绍\r\n急急急大家都觉得\r\n嫁的仅仅看\r\n",
+      "status": 1,
+      "type": 69,
+      "duration": null,
+      "updateTime": 1576566035000,
+      "createTime": 1576566035000
+    }],
+    "anchorOnlineDocList": [],
+    "anchorOfflineDocList": [],
+    "userPkDocList": [{
+      "id": 65,
+      "content": "如何发起pk？有两种pk方式，随机pk及好友pk\r\n随机pk：发起pk后，系统会在1分钟内自动为你匹配一个主播，匹配成功后，等待对方接受，当对方接受pk后，系统将会进行倒计时5s，5s后进入pk过程。\r\n好友pk：可以选择目前正在直播的主播进行发起pk，发起pk后，等待对方接受，接受后将进入pk流程\r\nPk如何判断胜负？在pk过程中，根据用户送礼的总价值来进行pk，在pk结束时，收礼总价值高的主播获胜\r\nPk惩罚阶段：pk结束后，按照事先约定好的惩罚，输的一方按照胜方的要求做出相应的惩罚",
+      "status": 1,
+      "type": 10,
+      "duration": 0,
+      "updateTime": 1537425245000,
+      "createTime": 1537425245000
+    }],
+    "wheelRuleDocList": [{
+      "id": 57,
+      "content": "1.点击抽奖按钮，花费花瓣进行抽奖；\r\n2.抽奖获得的礼物可以送给心仪主播，成为主播贡献榜的一员；\r\n3.转盘内奖品分为：礼物、红包券以及花瓣；\r\n4.抽中礼物，礼物将直接放入礼物背包；\r\n5.抽中花瓣，花瓣将直接增加到用户花瓣余额；\r\n6.抽中红包券，红包券将在账户“红包券”中累计，累计1000红包券可以兑换微信红包码，微信红包码在微信公众号“花间社交”进行兑换。10红包券=1元。",
+      "status": 1,
+      "type": 6,
+      "duration": 0,
+      "updateTime": 1529682562000,
+      "createTime": 1587883336000
+    }],
+    "starStewardDocList": [{
+      "id": 134,
+      "content": "管家规则介绍\r\n这是一个文案你\r\n九四家家户户\r\n登客hi呵呵1\r\n呢欸欸1iiii哦哦",
+      "status": 1,
+      "type": 70,
+      "duration": null,
+      "updateTime": 1576566065000,
+      "createTime": 1576566065000
+    }]
+  }
+}

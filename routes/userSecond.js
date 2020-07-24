@@ -12,24 +12,18 @@ router.all('*', function(req, res, next) {
     next();
 })
 
-/* GET home page. */
-router.get('/', function(req, res, next) {
-  res.render('index', { title: 'Express' });
-});
-
-/** 设置查询 */
-router.get('/setting/query', function(req, res, next) {
-    var file = path.join(__dirname, '../', '/data/setting/query.json');
+/** 下播获取本次直播观众榜单 */
+router.get('/getUserEndLiveSecondList', function(req, res, next) {
+    var file = path.join(__dirname, '../', '/data/userSecond/getUserEndLiveSecondList.json');
     var json = fs.readFileSync(file, 'utf-8')
     console.log(json)
     res.json(JSON.parse(json))
 })
-router.post('/setting/query', function(req, res, next) {
-    var file = path.join(__dirname, '../', '/data/setting/query.json');
+router.post('/getUserEndLiveSecondList', function(req, res, next) {
+    var file = path.join(__dirname, '../', '/data/userSecond/getUserEndLiveSecondList.json');
     var json = fs.readFileSync(file, 'utf-8')
     console.log(json)
     res.json(JSON.parse(json))
 })
-
 
 module.exports = router;
