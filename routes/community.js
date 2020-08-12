@@ -13,9 +13,15 @@ router.all('*', function (req, res, next) {
 
 
 
-/** 测试方法 */
-router.get('/test', function(req, res, next) {
-    var file = path.join(__dirname, '../', '/data/community/user.json');
+/** 社区推荐列表 */
+router.get('/recommends', function(req, res, next) {
+    var file = path.join(__dirname, '../', '/data/community/recommends.json');
+    var json = fs.readFileSync(file, 'utf-8')
+    console.log(json)
+    res.json(JSON.parse(json))
+})
+router.post('/recommends', function(req, res, next) {
+    var file = path.join(__dirname, '../', '/data/community/recommends.json');
     var json = fs.readFileSync(file, 'utf-8')
     console.log(json)
     res.json(JSON.parse(json))
